@@ -1,4 +1,14 @@
 # Manager Readme
+- [Manager Readme](#manager-readme)
+  - [Why?](#why)
+  - [Intro](#intro)
+  - [Agile Practices](#agile-practices)
+  - [1:1s:](#11s)
+  - [Personal Goals](#personal-goals)
+  - [Interviews / Recruitment:](#interviews--recruitment)
+  - [Admin:](#admin)
+  - [Annual Leave](#annual-leave)
+  - [Reading List](#reading-list)
 
 ## Why?
 
@@ -9,6 +19,7 @@ I’m Kristian, a DevOps leader, and this document is my Manager README — a gu
 - What is my job? I'm there to help enable my teams (and the teams around me) to do the best work of their lives. I can provide support, remove obstacles, and ensure each person has the resources they need to thrive. I will always prioritize the growth, well-being, and success of my team members.
 - Work/life balance: I believe in working to live, not living to work, and I encourage everyone on my team to find a balance that suits them. Everyone has different priorities, and I respect each person’s individual balance between work and personal life.
 - Delivery: The responsibility for 'what' teams deliver is decided in conjunction with stakeholders and higher level objectives, but the 'how' should be left for teams to decide.
+- Psychological Safety: I am committed to fostering a psychologically safe environment where everyone feels respected, comfortable sharing ideas, and safe to speak up. Mistakes are seen as learning opportunities, and collaboration is encouraged to ensure all voices are heard.a
 - Being as inclusive as I can to the people in my team and the wider business is very important to me. I will:
   - Look for opportunities to give underrepresented groups the benefit of my experience, my time and hopefully roles on my team. This makes good business sense (hiring diverse voices means that the products you deliver are much more likely to suit them, therefore appealing to a larger % of your market) as well as being the correct human thing to do.
   - Give space in sessions I run to make sure that everyone has the opportunity to give their valued input.
@@ -42,7 +53,7 @@ Some suggestions of things we might touch on include:
 - Longer-term goal progress (although we will have separate dedicated monthly time book to run through these).
 - Any feedback or concerns you have about any of your direct reports.
 
-## Personal Goals:
+## Personal Goals
 
 - Most workplaces have a concept of longer-term personal development and performance goals to assist in conversations about your personal development. Even if there are no formal policies, I will always encourage setting and maintaining longer term goals.
 - Why do I feel goals are valuable?
@@ -74,19 +85,18 @@ Some suggestions of things we might touch on include:
 
 ## Annual Leave
 
-- Expect to receive regular gentle nudges to ensure you are taking all the annual leave assigned each year - staff who barely take any leave will likely burn out as a result. I take these matters very seriously primarily in concern for the mental and physical wellbeing of my staff but also from a company point-of-view; exhausted, jaded staff are unlikely to deliver anything close to their potential quality and volume of work.
-- Please ensure (outside of unusual family circumstances) you are spreading your annual leave out over the holiday year - those who reach December with nearly a month's leave to take are both putting their wellbeing at risk and leave the company in the awkward position of having critical staff unavailable for extended periods of time.
+- Expect to receive regular gentle nudges to ensure you are taking all the annual leave assigned each year - staff who barely take any leave will likely burn out as a result. I take these matters very seriously primarily in concern for the mental and physical well-being of my staff but also from a company point-of-view; exhausted, jaded staff are unlikely to deliver anything close to their potential quality and volume of work.
+- Please ensure (outside of unusual family circumstances) you are spreading your annual leave out over the holiday year - those who reach December with nearly a month's leave to take are both putting their well-being at risk and leave the company in the awkward position of having critical staff unavailable for extended periods of time.
 - I prefer workplace policies where managers are not given approval rights on annual leave, but instead this is left to team members to negotiate between themselves. Part of the 'how' we deliver work includes managing throughput of the team and clearly annual leave has a big part to play in what we can deliver and when.
 
-## Reading List:
+## Reading List
 
-Some of the books I've read that stand out for me and whose lessons I come back to again and again:
+Some of the books I've read that stand out for me and whose lessons I come back to again and again (in no particular order):
 
-- The Manager's Path - _Camille Fournier_ : a great guide to effective techincal leadership (the 'path' being the journey from IC to Exec)
-- Start with Why - _Simon Sinek_ : good inspiration for motivating people by focussing on an organisation's core purpose (and its goals).
-- Radical Candour - _Kim Scott_ : brilliant feedback culture advice
-- Phoenix Project - _Gene Kim, Kevin Behr, and George Spafford_ : seminal DevOps fable
-- Uptime - _Laura Mae Martin_ : level up your lists game
-- The Five Dysfunctions of a Team - _Patrick Lencioni_ : another fable, this one focussed around leadership.
-- Accelerate - _Nicole Forsgren, Jez Humble, and Gene Kim_ : software delivery performance bible
--
+- [The Manager's Path - _Camille Fournier_](https://www.oreilly.com/library/view/the-managers-path/9781491973882/): a great guide to effective techincal leadership (the 'path' being the journey from IC to Exec)
+- [Start with Why - _Simon Sinek_](https://simonsinek.com/books/start-with-why/): good inspiration for motivating people by focussing on an organisation's core purpose (and its goals).
+- [Radical Candour - _Kim Scott_](https://www.radicalcandor.com/our-approach/): brilliant feedback culture advice
+- [Phoenix Project - _Gene Kim, Kevin Behr, and George Spafford_](https://itrevolution.com/product/the-phoenix-project/): seminal DevOps fable
+- [Uptime - _Laura Mae Martin_](https://lauramaemartin.com/book): level up your lists game
+- [The Five Dysfunctions of a Team - _Patrick Lencioni_](https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/): another fable, this one focussed around leadership.
+- [Accelerate - _Nicole Forsgren, Jez Humble, and Gene Kim_](https://itrevolution.com/product/accelerate/): software delivery performance bible
