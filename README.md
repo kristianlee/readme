@@ -19,7 +19,7 @@ I’m Kristian, a DevOps leader, and this document is my Manager README — a gu
 - What is my job? I'm there to help enable my teams (and the teams around me) to do the best work of their lives. I can provide support, remove obstacles, and ensure each person has the resources they need to thrive. I will always prioritize the growth, well-being, and success of my team members.
 - Work/life balance: I believe in working to live, not living to work, and I encourage everyone on my team to find a balance that suits them. Everyone has different priorities, and I respect each person’s individual balance between work and personal life.
 - Delivery: The responsibility for 'what' teams deliver is decided in conjunction with stakeholders and higher level objectives, but the 'how' should be left for teams to decide.
-- Psychological Safety: I am committed to fostering a psychologically safe environment where everyone feels respected, comfortable sharing ideas, and safe to speak up. Mistakes are seen as learning opportunities, and collaboration is encouraged to ensure all voices are heard.a
+- Psychological Safety: I am committed to fostering a psychologically safe environment where everyone feels respected, comfortable sharing ideas, and safe to speak up. Mistakes are seen as learning opportunities, and collaboration is encouraged to ensure all voices are heard.
 - Being as inclusive as I can to the people in my team and the wider business is very important to me. I will:
   - Look for opportunities to give underrepresented groups the benefit of my experience, my time and hopefully roles on my team. This makes good business sense (hiring diverse voices means that the products you deliver are much more likely to suit them, therefore appealing to a larger % of your market) as well as being the correct human thing to do.
   - Give space in sessions I run to make sure that everyone has the opportunity to give their valued input.
@@ -85,7 +85,7 @@ Some suggestions of things we might touch on include:
 
 ## Annual Leave
 
-- Expect to receive regular gentle nudges to ensure you are taking all the annual leave assigned each year - staff who barely take any leave will likely burn out as a result. I take these matters very seriously primarily in concern for the mental and physical well-being of my staff but also from a company point-of-view; exhausted, jaded staff are unlikely to deliver anything close to their potential quality and volume of work.
+- Expect to receive regular gentle nudges to ensure you are planning ahead to take all your annual leave. I take these matters very seriously, because taking leave is important for your mental and physical wellbeing. Avoiding burn-out is also an important part of maintaining a high performing team which benefits both you and the company.
 - Please ensure (outside of unusual family circumstances) you are spreading your annual leave out over the holiday year - those who reach December with nearly a month's leave to take are both putting their well-being at risk and leave the company in the awkward position of having critical staff unavailable for extended periods of time.
 - I prefer workplace policies where managers are not given approval rights on annual leave, but instead this is left to team members to negotiate between themselves. Part of the 'how' we deliver work includes managing throughput of the team and clearly annual leave has a big part to play in what we can deliver and when.
 
